@@ -7,4 +7,6 @@ El cambio por el departamento de informaticfa
 hola soy yo
 master 1
 
+master 2
+
 Mañana nos enfocaremos en su vida laboral.
